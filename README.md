@@ -15,7 +15,7 @@ The project demonstrates a custom implementation of a queue with the following f
 ## This repository includes:
 
 Queue_Travnicek_1 **Original version**: A basic implementation of the queue.
-Queue_Travnicek_2 **Refactored version**: Improved code readability, added type hints, and comments for better understanding.
+Queue_Travnicek_2 **Refactored version**: Improved code readability, added type hints, comments and test case for better understanding.
 
 ## Features of the Refactored Version
 
