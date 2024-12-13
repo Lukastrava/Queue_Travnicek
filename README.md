@@ -13,6 +13,7 @@ The project demonstrates a custom implementation of a queue with the following f
 - Retrieve the current size of the queue.
 
 The implementation includes:
+
 Queue_Travnicek_1 **Original version**: A basic implementation of the queue.
 Queue_Travnicek_2 **Refactored version**: Improved code readability, added type hints, and comments for better understanding.
 
