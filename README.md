@@ -23,3 +23,4 @@ Queue_Travnicek_2 **Refactored version**: Improved code readability, added type 
 - Renamed methods and variables for better readability.
 - Added comprehensive comments to explain each method and its functionality.
 - Followed PEP8 standards to ensure clean and readable code.
+- Added test case for better understanding.
